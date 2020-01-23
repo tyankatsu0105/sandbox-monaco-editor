@@ -1,0 +1,11 @@
+#container {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  height:100vh;
+}
+/* 
+#container > .monaco-editor {
+  border: 1px solid #fff;
+  width: calc(50% - 14px) !important;
+} */
